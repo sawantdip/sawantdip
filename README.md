@@ -7,7 +7,7 @@ Email Me 👉 ✉️ **sawantsdip4002@gmail.com** For Collaboration/Project or A
 - 🌱 **I’m currently learning:**
      - DAV (Data Analytics & Visualization)
      - Deep Learning
-     - Project Managemen
+     - Project Management
 - 👯 **I’m looking to collaborate on:**
      - Web Development projects (React, Node.js).
 - 🤔 **I’m looking for help with:**
